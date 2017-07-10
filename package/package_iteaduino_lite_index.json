@@ -7,7 +7,7 @@
       "platforms": [
         {
           "name": "Iteaduino Lite",
-          "architecture": "LGT8F88A",
+          "architecture": "avr",
           "version": "0.0.1",
           "category": "Contributed",
           "url": "https://github.com/udif/ITEADSW_Iteaduino-Lite-HSP/releases/download/v0.0.1/iteaduino_lite_board.zip",
