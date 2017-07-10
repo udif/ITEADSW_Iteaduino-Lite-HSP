@@ -12,8 +12,8 @@
           "category": "Contributed",
           "url": "https://github.com/udif/ITEADSW_Iteaduino-Lite-HSP/releases/download/v0.0.1/iteaduino_lite_board.zip",
           "archiveFileName": "iteaduino_lite_board.zip",
-          "checksum": "SHA-256:65f4e6ed1bd25ddea1877e961d54a7fcb7022db50dcce165a96b9506635badc1",
-          "size": "123632",
+          "checksum": "SHA-256:f6cd5897695fb36deaf10cdf1f430a74f53cdf78bc115dc15baa090f9831a8d4",
+          "size": "126812",
           "boards": [
             {"name": "Iteaduino Lite"}
           ],
