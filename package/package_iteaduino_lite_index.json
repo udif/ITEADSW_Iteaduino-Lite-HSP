@@ -8,12 +8,12 @@
         {
           "name": "Iteaduino Lite",
           "architecture": "avr",
-          "version": "0.0.1",
+          "version": "0.9",
           "category": "Contributed",
-          "url": "https://github.com/udif/ITEADSW_Iteaduino-Lite-HSP/releases/download/v0.0.1/iteaduino_lite_board.zip",
+          "url": "https://github.com/udif/ITEADSW_Iteaduino-Lite-HSP/releases/download/v0.9/iteaduino_lite_board.zip",
           "archiveFileName": "iteaduino_lite_board.zip",
-          "checksum": "SHA-256:f6cd5897695fb36deaf10cdf1f430a74f53cdf78bc115dc15baa090f9831a8d4",
-          "size": "126812",
+          "checksum": "SHA-256:fc1c0847ff54df757b5b1d2405ea44e51b3f4458e3889b280676adce00e13053",
+          "size": "126811",
           "boards": [
             {"name": "Iteaduino Lite"}
           ],
